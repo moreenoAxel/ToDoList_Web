@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Laura\\Desktop\\Visual Studio Projects\\Proyecto_Gestion_Tareas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BBA10EE-7ECF-4CD9-8D68-6CBD5903D05C}|Proyecto_Gestion_Tareas\\Proyecto_Gestion_Tareas.csproj|c:\\users\\laura\\desktop\\visual studio projects\\proyecto_gestion_tareas\\proyecto_gestion_tareas\\tareas\\eliminartareas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2BBA10EE-7ECF-4CD9-8D68-6CBD5903D05C}|Proyecto_Gestion_Tareas\\Proyecto_Gestion_Tareas.csproj|solutionrelative:proyecto_gestion_tareas\\tareas\\eliminartareas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BBA10EE-7ECF-4CD9-8D68-6CBD5903D05C}|Proyecto_Gestion_Tareas\\Proyecto_Gestion_Tareas.csproj|C:\\Users\\Laura\\Desktop\\Visual Studio Projects\\Proyecto_Gestion_Tareas\\proyecto_gestion_tareas\\tareas\\listartareas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2BBA10EE-7ECF-4CD9-8D68-6CBD5903D05C}|Proyecto_Gestion_Tareas\\Proyecto_Gestion_Tareas.csproj|solutionrelative:proyecto_gestion_tareas\\tareas\\listartareas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BBA10EE-7ECF-4CD9-8D68-6CBD5903D05C}|Proyecto_Gestion_Tareas\\Proyecto_Gestion_Tareas.csproj|c:\\users\\laura\\desktop\\visual studio projects\\proyecto_gestion_tareas\\proyecto_gestion_tareas\\tareas\\modificartareas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2BBA10EE-7ECF-4CD9-8D68-6CBD5903D05C}|Proyecto_Gestion_Tareas\\Proyecto_Gestion_Tareas.csproj|solutionrelative:proyecto_gestion_tareas\\tareas\\modificartareas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BBA10EE-7ECF-4CD9-8D68-6CBD5903D05C}|Proyecto_Gestion_Tareas\\Proyecto_Gestion_Tareas.csproj|c:\\users\\laura\\desktop\\visual studio projects\\proyecto_gestion_tareas\\proyecto_gestion_tareas\\tareas\\creartareas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2BBA10EE-7ECF-4CD9-8D68-6CBD5903D05C}|Proyecto_Gestion_Tareas\\Proyecto_Gestion_Tareas.csproj|solutionrelative:proyecto_gestion_tareas\\tareas\\creartareas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BBA10EE-7ECF-4CD9-8D68-6CBD5903D05C}|Proyecto_Gestion_Tareas\\Proyecto_Gestion_Tareas.csproj|C:\\Users\\Laura\\Desktop\\Visual Studio Projects\\Proyecto_Gestion_Tareas\\proyecto_gestion_tareas\\inicio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2BBA10EE-7ECF-4CD9-8D68-6CBD5903D05C}|Proyecto_Gestion_Tareas\\Proyecto_Gestion_Tareas.csproj|solutionrelative:proyecto_gestion_tareas\\inicio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BBA10EE-7ECF-4CD9-8D68-6CBD5903D05C}|Proyecto_Gestion_Tareas\\Proyecto_Gestion_Tareas.csproj|C:\\Users\\Laura\\Desktop\\Visual Studio Projects\\Proyecto_Gestion_Tareas\\proyecto_gestion_tareas\\tareas\\eliminartareas.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BBA10EE-7ECF-4CD9-8D68-6CBD5903D05C}|Proyecto_Gestion_Tareas\\Proyecto_Gestion_Tareas.csproj|solutionrelative:proyecto_gestion_tareas\\tareas\\eliminartareas.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CrearTareas.aspx",
+              "DocumentMoniker": "C:\\Users\\Laura\\Desktop\\Visual Studio Projects\\Proyecto_Gestion_Tareas\\Proyecto_Gestion_Tareas\\Tareas\\CrearTareas.aspx",
+              "RelativeDocumentMoniker": "Proyecto_Gestion_Tareas\\Tareas\\CrearTareas.aspx",
+              "ToolTip": "C:\\Users\\Laura\\Desktop\\Visual Studio Projects\\Proyecto_Gestion_Tareas\\Proyecto_Gestion_Tareas\\Tareas\\CrearTareas.aspx",
+              "RelativeToolTip": "Proyecto_Gestion_Tareas\\Tareas\\CrearTareas.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-19T21:32:15.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ModificarTareas.aspx",
+              "DocumentMoniker": "C:\\Users\\Laura\\Desktop\\Visual Studio Projects\\Proyecto_Gestion_Tareas\\Proyecto_Gestion_Tareas\\Tareas\\ModificarTareas.aspx",
+              "RelativeDocumentMoniker": "Proyecto_Gestion_Tareas\\Tareas\\ModificarTareas.aspx",
+              "ToolTip": "C:\\Users\\Laura\\Desktop\\Visual Studio Projects\\Proyecto_Gestion_Tareas\\Proyecto_Gestion_Tareas\\Tareas\\ModificarTareas.aspx",
+              "RelativeToolTip": "Proyecto_Gestion_Tareas\\Tareas\\ModificarTareas.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-19T21:18:04.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EliminarTareas.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\Desktop\\Visual Studio Projects\\Proyecto_Gestion_Tareas\\Proyecto_Gestion_Tareas\\Tareas\\EliminarTareas.aspx.cs",
+              "RelativeDocumentMoniker": "Proyecto_Gestion_Tareas\\Tareas\\EliminarTareas.aspx.cs",
+              "ToolTip": "C:\\Users\\Laura\\Desktop\\Visual Studio Projects\\Proyecto_Gestion_Tareas\\Proyecto_Gestion_Tareas\\Tareas\\EliminarTareas.aspx.cs",
+              "RelativeToolTip": "Proyecto_Gestion_Tareas\\Tareas\\EliminarTareas.aspx.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAowBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T00:03:59.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EliminarTareas.aspx",
+              "DocumentMoniker": "C:\\Users\\Laura\\Desktop\\Visual Studio Projects\\Proyecto_Gestion_Tareas\\Proyecto_Gestion_Tareas\\Tareas\\EliminarTareas.aspx",
+              "RelativeDocumentMoniker": "Proyecto_Gestion_Tareas\\Tareas\\EliminarTareas.aspx",
+              "ToolTip": "C:\\Users\\Laura\\Desktop\\Visual Studio Projects\\Proyecto_Gestion_Tareas\\Proyecto_Gestion_Tareas\\Tareas\\EliminarTareas.aspx",
+              "RelativeToolTip": "Proyecto_Gestion_Tareas\\Tareas\\EliminarTareas.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-29T22:43:10.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListarTareas.aspx",
+              "DocumentMoniker": "C:\\Users\\Laura\\Desktop\\Visual Studio Projects\\Proyecto_Gestion_Tareas\\Proyecto_Gestion_Tareas\\Tareas\\ListarTareas.aspx",
+              "RelativeDocumentMoniker": "Proyecto_Gestion_Tareas\\Tareas\\ListarTareas.aspx",
+              "ToolTip": "C:\\Users\\Laura\\Desktop\\Visual Studio Projects\\Proyecto_Gestion_Tareas\\Proyecto_Gestion_Tareas\\Tareas\\ListarTareas.aspx",
+              "RelativeToolTip": "Proyecto_Gestion_Tareas\\Tareas\\ListarTareas.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-28T20:02:31.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Inicio.aspx",
+              "DocumentMoniker": "C:\\Users\\Laura\\Desktop\\Visual Studio Projects\\Proyecto_Gestion_Tareas\\Proyecto_Gestion_Tareas\\Inicio.aspx",
+              "RelativeDocumentMoniker": "Proyecto_Gestion_Tareas\\Inicio.aspx",
+              "ToolTip": "C:\\Users\\Laura\\Desktop\\Visual Studio Projects\\Proyecto_Gestion_Tareas\\Proyecto_Gestion_Tareas\\Inicio.aspx",
+              "RelativeToolTip": "Proyecto_Gestion_Tareas\\Inicio.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-26T02:59:48.618Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
