@@ -13,7 +13,7 @@
           font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
           color: #8B4513;
           position: absolute;
-          top: 20%; /* Ajusta este valor según sea necesario */
+          top: 20%; 
           left: 50%;
           transform: translate(-50%, -50%);
           font: bold 90% monospace;

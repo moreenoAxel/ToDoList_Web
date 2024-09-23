@@ -104,7 +104,7 @@
                     <asp:TextBox ID="txtFecha" runat="server" TextMode="Date"></asp:TextBox>
                 </div>
                 <div class="form-group">
-                    <asp:Button ID="btnCrear" runat="server" Text="Crear Tarea" />
+                    <asp:Button ID="btnCrear" runat="server" Text="Crear Tarea" OnClick="btnCrear_Click" />
                 </div>
                 <div class="back-link">
                     <asp:HyperLink ID="hlVolver" runat="server" NavigateUrl="~/Inicio.aspx">Volver a inicio</asp:HyperLink>
