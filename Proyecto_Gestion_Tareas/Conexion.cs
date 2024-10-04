@@ -26,5 +26,21 @@ namespace Proyecto_Gestion_Tareas
                 return null;
             }
         }
+
+        public void CreateTarea(string name, DateTime date, int prioridade, int state) {
+            using (SqlConnection connection = AbrirConexion()) 
+            { 
+                if (connection != null)
+                {
+                    using (SqlCommand command = new SqlCommand("sp_CrearTareas", connection))
+                    {
+                        command.CommandType = CommandType.StoredProcedure;
+
+                        // assign parameters
+                        //command.Parameters.AddWithValue("@Nombre_T", nombreTarea);
+                    }
+                }
+            }
+        }
     }
 }
