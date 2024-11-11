@@ -12,6 +12,8 @@ namespace Proyecto_Gestion_Tareas.Tareas
 {
     public partial class Crear_Tareas : System.Web.UI.Page
     {
+        CamposTareas camposTareas = new CamposTareas();
+
         Conexion conexion = new Conexion();
         protected void Page_Load(object sender, EventArgs e)
         {
@@ -45,7 +47,27 @@ namespace Proyecto_Gestion_Tareas.Tareas
 
         protected void btnCrear_Click(object sender, EventArgs e)
         {
+            CamposTareas nuevaTarea = new CamposTareas(
+                    txtNombre.Text,
+                    txtFecha.Text,
+                    Convert.ToInt32(ddlPrioridad.SelectedValue),
+                    txtDesc.Text
+               );
 
+
+            Conexion conexion = new Conexion();
+
+            try
+            {
+                conexion.AbrirConexion();
+                conexion.CreateTarea(nuevaTarea);
+                ScriptManager.RegisterStartupScript(this, GetType(), "showalert", "alert('tarea agregada exitosamente.');", true);
+            }
+            catch (Exception ex) {
+                ScriptManager.RegisterStartupScript(this, GetType(), "showalert", "alert('Error al agregar la tarea: " + ex.Message + "');", true);
+            }
+
+            
         }
     }
 }

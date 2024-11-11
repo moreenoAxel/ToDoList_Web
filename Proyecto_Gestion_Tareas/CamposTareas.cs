@@ -8,22 +8,28 @@ namespace Proyecto_Gestion_Tareas
     public class CamposTareas
 
     {
-        private int CodTarea { get; set; }
-        private string Nombre { get; set; }
-        private DateTime fecha { get; set; }
-        private int idPrioridad { get; set; }
-        private int idEstado { get; set; }
+        public int CodTarea { get; set; }
+        public string Nombre { get; set; }
+        public string fecha { get; set; }
+        public int idPrioridad { get; set; }
+
+        public int idEstado { get; set; }
+
+        public string Descripcion { get; set; }
+        
 
       
 
         public CamposTareas() { }
 
-        public CamposTareas (string nombre, DateTime fechaVencimiento, int idPrioridad, int idEstado)
+        public CamposTareas (string nombre, string fechaVencimiento, int idPrioridad, string Descripcion)
         {
             Nombre = nombre;
             fecha = fechaVencimiento;
             this.idPrioridad = idPrioridad;
-            this.idEstado = idEstado;
+            this.Descripcion = Descripcion;
+            
+            
         }
     }
 }
