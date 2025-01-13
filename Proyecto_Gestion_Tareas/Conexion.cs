@@ -5,6 +5,7 @@ using System.Web;
 using System.Data.SqlClient;
 using System.Data.Sql;
 using System.Data;
+using System.Runtime.Remoting.Messaging;
 
 namespace Proyecto_Gestion_Tareas
 {
@@ -66,6 +67,41 @@ namespace Proyecto_Gestion_Tareas
 
                 }
             }
+        }
+
+        public DataTable getStacks()
+        {
+
+            DataTable dt = new DataTable();
+
+            SqlConnection cn = AbrirConexion();
+
+            string query = "SELECT Nombre_T, FechaVencimiento, Descripcion, Desc_P AS Prioridad, Desc_E AS Estado From Tareas JOIN Prioridad ON  IdPrio_T = Id_P  JOIN Estado ON IdEst = Id_E";
+
+            if (cn != null)
+            {
+                try
+                {
+                    SqlCommand command = new SqlCommand(query, cn);
+                    SqlDataAdapter dataAdapter = new SqlDataAdapter(command);
+                    
+                    dataAdapter.Fill(dt);
+
+                 
+                }
+                catch (Exception ex)
+                {
+
+                    Console.WriteLine("Errror al obtener las tareas: " + ex.Message);
+
+                }
+                finally
+                {
+                    cn.Close();
+                }
+            }
+
+            return dt;
         }
     }
         

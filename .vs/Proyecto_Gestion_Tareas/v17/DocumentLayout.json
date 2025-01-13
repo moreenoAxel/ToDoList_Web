@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Laura\\Documents\\GitHub\\ToDoList_Web\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2BBA10EE-7ECF-4CD9-8D68-6CBD5903D05C}|Proyecto_Gestion_Tareas\\Proyecto_Gestion_Tareas.csproj|C:\\Users\\Laura\\Documents\\GitHub\\ToDoList_Web\\proyecto_gestion_tareas\\tareas\\creartareas.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BBA10EE-7ECF-4CD9-8D68-6CBD5903D05C}|Proyecto_Gestion_Tareas\\Proyecto_Gestion_Tareas.csproj|solutionrelative:proyecto_gestion_tareas\\tareas\\creartareas.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2BBA10EE-7ECF-4CD9-8D68-6CBD5903D05C}|Proyecto_Gestion_Tareas\\Proyecto_Gestion_Tareas.csproj|C:\\Users\\Laura\\Documents\\GitHub\\ToDoList_Web\\proyecto_gestion_tareas\\tareas\\listartareas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2BBA10EE-7ECF-4CD9-8D68-6CBD5903D05C}|Proyecto_Gestion_Tareas\\Proyecto_Gestion_Tareas.csproj|solutionrelative:proyecto_gestion_tareas\\tareas\\listartareas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2BBA10EE-7ECF-4CD9-8D68-6CBD5903D05C}|Proyecto_Gestion_Tareas\\Proyecto_Gestion_Tareas.csproj|c:\\users\\laura\\documents\\github\\todolist_web\\proyecto_gestion_tareas\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2BBA10EE-7ECF-4CD9-8D68-6CBD5903D05C}|Proyecto_Gestion_Tareas\\Proyecto_Gestion_Tareas.csproj|C:\\Users\\Laura\\Documents\\GitHub\\ToDoList_Web\\proyecto_gestion_tareas\\tareas\\listartareas.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BBA10EE-7ECF-4CD9-8D68-6CBD5903D05C}|Proyecto_Gestion_Tareas\\Proyecto_Gestion_Tareas.csproj|solutionrelative:proyecto_gestion_tareas\\tareas\\listartareas.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BBA10EE-7ECF-4CD9-8D68-6CBD5903D05C}|Proyecto_Gestion_Tareas\\Proyecto_Gestion_Tareas.csproj|c:\\users\\laura\\documents\\github\\todolist_web\\proyecto_gestion_tareas\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2BBA10EE-7ECF-4CD9-8D68-6CBD5903D05C}|Proyecto_Gestion_Tareas\\Proyecto_Gestion_Tareas.csproj|solutionrelative:proyecto_gestion_tareas\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BBA10EE-7ECF-4CD9-8D68-6CBD5903D05C}|Proyecto_Gestion_Tareas\\Proyecto_Gestion_Tareas.csproj|C:\\Users\\Laura\\Documents\\GitHub\\ToDoList_Web\\proyecto_gestion_tareas\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2BBA10EE-7ECF-4CD9-8D68-6CBD5903D05C}|Proyecto_Gestion_Tareas\\Proyecto_Gestion_Tareas.csproj|solutionrelative:proyecto_gestion_tareas\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2BBA10EE-7ECF-4CD9-8D68-6CBD5903D05C}|Proyecto_Gestion_Tareas\\Proyecto_Gestion_Tareas.csproj|C:\\Users\\Laura\\Documents\\GitHub\\ToDoList_Web\\proyecto_gestion_tareas\\tareas\\creartareas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{2BBA10EE-7ECF-4CD9-8D68-6CBD5903D05C}|Proyecto_Gestion_Tareas\\Proyecto_Gestion_Tareas.csproj|solutionrelative:proyecto_gestion_tareas\\tareas\\creartareas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2BBA10EE-7ECF-4CD9-8D68-6CBD5903D05C}|Proyecto_Gestion_Tareas\\Proyecto_Gestion_Tareas.csproj|C:\\Users\\Laura\\Documents\\GitHub\\ToDoList_Web\\proyecto_gestion_tareas\\campostareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,13 +34,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Conexion.cs",
               "DocumentMoniker": "C:\\Users\\Laura\\Documents\\GitHub\\ToDoList_Web\\Proyecto_Gestion_Tareas\\Conexion.cs",
               "RelativeDocumentMoniker": "Proyecto_Gestion_Tareas\\Conexion.cs",
               "ToolTip": "C:\\Users\\Laura\\Documents\\GitHub\\ToDoList_Web\\Proyecto_Gestion_Tareas\\Conexion.cs",
               "RelativeToolTip": "Proyecto_Gestion_Tareas\\Conexion.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAAAC4AAABVAAAA",
+              "ViewState": "AQIAAEYAAAAAAAAAAABQwE4AAAC9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-23T20:46:36.612Z",
               "IsPinned": true,
@@ -45,39 +49,54 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CrearTareas.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Laura\\Documents\\GitHub\\ToDoList_Web\\Proyecto_Gestion_Tareas\\Tareas\\CrearTareas.aspx.cs",
-              "RelativeDocumentMoniker": "Proyecto_Gestion_Tareas\\Tareas\\CrearTareas.aspx.cs",
-              "ToolTip": "C:\\Users\\Laura\\Documents\\GitHub\\ToDoList_Web\\Proyecto_Gestion_Tareas\\Tareas\\CrearTareas.aspx.cs",
-              "RelativeToolTip": "Proyecto_Gestion_Tareas\\Tareas\\CrearTareas.aspx.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAowD0AAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T16:37:51.029Z",
+              "Title": "ListarTareas.aspx",
+              "DocumentMoniker": "C:\\Users\\Laura\\Documents\\GitHub\\ToDoList_Web\\Proyecto_Gestion_Tareas\\Tareas\\ListarTareas.aspx",
+              "RelativeDocumentMoniker": "Proyecto_Gestion_Tareas\\Tareas\\ListarTareas.aspx",
+              "ToolTip": "C:\\Users\\Laura\\Documents\\GitHub\\ToDoList_Web\\Proyecto_Gestion_Tareas\\Tareas\\ListarTareas.aspx",
+              "RelativeToolTip": "Proyecto_Gestion_Tareas\\Tareas\\ListarTareas.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-26T17:41:36.876Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CrearTareas.aspx",
-              "DocumentMoniker": "C:\\Users\\Laura\\Documents\\GitHub\\ToDoList_Web\\Proyecto_Gestion_Tareas\\Tareas\\CrearTareas.aspx",
-              "RelativeDocumentMoniker": "Proyecto_Gestion_Tareas\\Tareas\\CrearTareas.aspx",
-              "ToolTip": "C:\\Users\\Laura\\Documents\\GitHub\\ToDoList_Web\\Proyecto_Gestion_Tareas\\Tareas\\CrearTareas.aspx",
-              "RelativeToolTip": "Proyecto_Gestion_Tareas\\Tareas\\CrearTareas.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-11-07T16:37:41.164Z"
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Laura\\Documents\\GitHub\\ToDoList_Web\\Proyecto_Gestion_Tareas\\Web.config",
+              "RelativeDocumentMoniker": "Proyecto_Gestion_Tareas\\Web.config",
+              "ToolTip": "C:\\Users\\Laura\\Documents\\GitHub\\ToDoList_Web\\Proyecto_Gestion_Tareas\\Web.config",
+              "RelativeToolTip": "Proyecto_Gestion_Tareas\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-13T17:48:41.265Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "ListarTareas.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\Documents\\GitHub\\ToDoList_Web\\Proyecto_Gestion_Tareas\\Tareas\\ListarTareas.aspx.cs",
+              "RelativeDocumentMoniker": "Proyecto_Gestion_Tareas\\Tareas\\ListarTareas.aspx.cs",
+              "ToolTip": "C:\\Users\\Laura\\Documents\\GitHub\\ToDoList_Web\\Proyecto_Gestion_Tareas\\Tareas\\ListarTareas.aspx.cs",
+              "RelativeToolTip": "Proyecto_Gestion_Tareas\\Tareas\\ListarTareas.aspx.cs",
+              "ViewState": "AQIAAIsAAAAAAAAAAAAAAJ4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T22:01:05.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "CamposTareas.cs",
               "DocumentMoniker": "C:\\Users\\Laura\\Documents\\GitHub\\ToDoList_Web\\Proyecto_Gestion_Tareas\\CamposTareas.cs",
               "RelativeDocumentMoniker": "Proyecto_Gestion_Tareas\\CamposTareas.cs",
               "ToolTip": "C:\\Users\\Laura\\Documents\\GitHub\\ToDoList_Web\\Proyecto_Gestion_Tareas\\CamposTareas.cs",
               "RelativeToolTip": "Proyecto_Gestion_Tareas\\CamposTareas.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAABgAAABoAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwBgAAABoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T22:49:35.744Z"
+              "WhenOpened": "2024-10-04T22:49:35.744Z",
+              "EditorCaption": ""
             }
           ]
         }
